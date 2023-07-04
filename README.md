@@ -1,4 +1,5 @@
-# SuperHero-Stats-Fetcher
+A straightforward JavaScript application built using the superheroapi.com API. This app allows users to retrieve information and details about their favorite superheroes. You can access the application using the following link: superheroapi.pratimeshtiwari.repl.co
 
-A simple JS app made with superheroapi.com API
-Link : https://superheroapi.pratimeshtiwari.repl.co/
+
+
+
